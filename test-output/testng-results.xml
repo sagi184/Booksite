@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27909" started-at="2018-10-30T04:00:49Z" finished-at="2018-10-30T04:01:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27909" started-at="2018-10-30T04:00:49Z" finished-at="2018-10-30T04:01:17Z">
+      <class name="testcases.Chapter1">
+        <test-method status="PASS" signature="start()[pri:0, instance:testcases.Chapter1@5b275dab]" name="start" is-config="true" duration-ms="4742" started-at="2018-10-30T09:30:49Z" finished-at="2018-10-30T09:30:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="Chapter1Click()[pri:0, instance:testcases.Chapter1@5b275dab]" name="Chapter1Click" duration-ms="414" started-at="2018-10-30T09:30:54Z" finished-at="2018-10-30T09:30:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Chapter1Click -->
+        <test-method status="PASS" signature="Chapter1dropdownandradio()[pri:0, instance:testcases.Chapter1@5b275dab]" name="Chapter1dropdownandradio" duration-ms="20682" started-at="2018-10-30T09:30:54Z" finished-at="2018-10-30T09:31:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Chapter1dropdownandradio -->
+        <test-method status="PASS" signature="Chapter1Popup()[pri:0, instance:testcases.Chapter1@5b275dab]" name="Chapter1Popup" duration-ms="1216" started-at="2018-10-30T09:31:15Z" finished-at="2018-10-30T09:31:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Chapter1Popup -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:testcases.Chapter1@5b275dab]" name="teardown" is-config="true" duration-ms="840" started-at="2018-10-30T09:31:16Z" finished-at="2018-10-30T09:31:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testcases.Chapter1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

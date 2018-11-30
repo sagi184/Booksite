@@ -1,0 +1,13 @@
+<suite name="Practiceprogram">
+ <test name="Chapter1">
+ <classes>
+ <class name="testcases.Chapter1" />
+  
+ </classes>
+ </test>
+ <test name="Chapter4">
+ <classes>
+ <class name="testcases.Chapter2" />
+ </classes>
+ </test>
+</suite>
